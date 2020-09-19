@@ -22,5 +22,5 @@ monitorIssueBody: 'Please note that this repository is publicly visible to the i
 # ccList: '@user123 @user456'
 
 # Repos to  exclude in detection. Should be a List of Strings.
-# excludeRepos: ['repo1', 'repo2']
+excludeRepos: ['hw7-001', 'hw7-003', 'hw7-005']
 
